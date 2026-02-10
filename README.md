@@ -1,239 +1,121 @@
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"
-  />
-
-  <img
-    src="perfil.jpeg"
-    width="150"
-    height="150"
-    style="border-radius: 50%; border: 4px solid #00bfbf; object-fit: cover"
-    alt="Foto de Perfil Samuel"
-  />
-  <br /><br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+  <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+SAMUEL;Full+Stack+Developer+Jr.;24+years+old+%7C+São+Paulo,+SP;Building+solutions+with+React+and+Python;Be+Welcome!+:%29"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+SAMUEL;Full+Stack+Developer+Jr.;24+years+old+%7C+São+Paulo,+SP;Building+solutions+with+React+and+Python;Be+Welcome!+:%29" alt="Typing SVG" />
   </a>
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Samucacs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
-    alt="Samuel Stats"
-  />
-  <img
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samucacs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samucacs&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Samucacs&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true"
-    width="100%"
-    alt="Activity Graph"
-  />
-</div>
+---
 
---- ### 💻 Main Skills & Tools
+### 💻 Main Skills & Tools
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="90">
-        <img
-          src="https://techstack-generator.vercel.app/ts-icon.svg"
-          alt="icon"
-          width="40"
-          height="40"
-        />
-        <br />TypeScript
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+        <br>TypeScript
       </td>
       <td align="center" width="90">
-        <img
-          src="https://techstack-generator.vercel.app/js-icon.svg"
-          alt="icon"
-          width="40"
-          height="40"
-        />
-        <br />JavaScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <br>JavaScript
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=angular"
-          width="40"
-          height="40"
-          alt="Angular"
-        />
-        <br />Angular
+        <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
+        <br>Angular
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=react"
-          width="40"
-          height="40"
-          alt="React"
-        />
-        <br />React
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+        <br>React
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=python"
-          width="40"
-          height="40"
-          alt="Python"
-        />
-        <br />Python
+        <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+        <br>Python
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=html"
-          width="40"
-          height="40"
-          alt="HTML"
-        />
-        <br />HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
+        <br>HTML5
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=css"
-          width="40"
-          height="40"
-          alt="CSS"
-        />
-        <br />CSS3
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+        <br>CSS3
       </td>
     </tr>
     <tr>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=mysql"
-          width="40"
-          height="40"
-          alt="MySQL"
-        />
-        <br />MySQL
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+        <br>MySQL
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
+        <br>Bootstrap
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=bootstrap"
-          width="40"
-          height="40"
-          alt="Bootstrap"
-        />
-        <br />Bootstrap
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+        <br>Figma
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=figma"
-          width="40"
-          height="40"
-          alt="Figma"
-        />
-        <br />Figma
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+        <br>Git
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=git"
-          width="40"
-          height="40"
-          alt="Git"
-        />
-        <br />Git
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+        <br>VS Code
       </td>
       <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=vscode"
-          width="40"
-          height="40"
-          alt="VS Code"
-        />
-        <br />VS Code
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+        <br>Linux
       </td>
-      <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=linux"
-          width="40"
-          height="40"
-          alt="Linux"
-        />
-        <br />Linux
-      </td>
-      <td align="center" width="90">
-        <img
-          src="https://skillicons.dev/icons?i=windows"
-          width="40"
-          height="40"
-          alt="Windows"
-        />
-        <br />Windows
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" alt="Windows" />
+        <br>Windows
       </td>
     </tr>
   </table>
 </div>
 
-<br />
+<br>
 
-### 🚀 Projects Highlight | Projeto | Descrição | Tech Stack | | :--- | :--- |
-:--- | | **Meu Financeiro** | Aplicação de gestão financeira pessoal com
-controle de carteiras e cartões. | React, Supabase | | **Dashboards para a
-Secretaria da Educação** | Aplicação de gestão financeira pessoal com controle
-de carteiras e cartões.| React, Supabase| | **NEO Chatbot** | Assistente virtual
-inteligente desenvolvido para a Diretoria de Ensino. | Typebot, IA |
+### 🚀 Projects Highlight
 
-<br />
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **Meu Financeiro** | Aplicação de gestão financeira pessoal com controle de carteiras e cartões. | React, Supabase |
+| **Dashboards S.E.** | Dashboards para a Secretaria da Educação. | React, Python |
+| **NEO Chatbot** | Assistente virtual inteligente desenvolvido para a Diretoria de Ensino. | Typebot, IA |
+
+<br>
 
 ### 📚 Studying Currently
 <div align="center">
-  <img
-    src="https://img.shields.io/badge/-React.js-00bfbf?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117"
-  />
-  <img
-    src="https://img.shields.io/badge/-Angular-00bfbf?style=for-the-badge&logo=Angular&logoColor=white&labelColor=0D1117"
-  />
-  <img
-    src="https://img.shields.io/badge/-Next.js-00bfbf?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117"
-  />
+  <img src="https://img.shields.io/badge/-React.js-00bfbf?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-Angular-00bfbf?style=for-the-badge&logo=Angular&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/-Next.js-00bfbf?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" />
 </div>
 
-<br />
+<br>
 
 <div align="center">
   <p><b>Visitors Count</b></p>
-  <img
-    src="https://profile-counter.glitch.me/{SamucaCS}/count.svg"
-    alt="Visitors"
-  />
-
-  <br /><br />
-
+  <img src="https://profile-counter.glitch.me/{SamucaCS}/count.svg" alt="Visitors" />
+  
+  <br><br>
+  
   <a href="https://www.instagram.com/samucacs_/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a
-    href="https://www.linkedin.com/in/samuel-carvalho-silva-337a281b3/"
-    target="_blank"
-  >
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+  <a href="https://www.linkedin.com/in/samuel-carvalho-silva-337a281b3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
