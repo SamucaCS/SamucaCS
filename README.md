@@ -90,7 +90,7 @@
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
 | **Meu Financeiro** | Aplicação de gestão financeira pessoal com controle de carteiras e cartões. | React, Mysql, Render, Supabase |
-| **Dashboards S.E.** | Dashboards para a Secretaria da Educação. | React, Python |
+| **Dashboards S.E.** | Dashboards para a Secretaria da Educação. | React, Python, TypeScript |
 | **NEO Chatbot** | Assistente virtual inteligente desenvolvido para a Diretoria de Ensino. | Typebot, IA |
 
 <br>
